@@ -1,9 +1,5 @@
 <em> Juego del amigo secreto </em>
 
-
-<img width="450" height="277" alt="amigo-secreto" src="https://github.com/user-attachments/assets/ad69fcf3-4a3a-4b8c-8153-bff7911cb240" />
-
-
 ##Índice
 - [Título e imagen de la portada](#titulo-e-imagen-de-la-portada)
 - [Índice](#índice)
@@ -47,3 +43,4 @@ Proyecto finalizado.
 ##Pesonas desarrolladores
 
 Duvan Ramirez.
+
